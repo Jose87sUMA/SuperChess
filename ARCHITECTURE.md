@@ -35,32 +35,6 @@ This separation allows the chess engine to be tested and reused independently of
 
 ---
 
-## High-Level System Architecture
-
-+------------------+  
-|     UI Layer     |  
-| (HUD, Menus)     |  
-+--------+---------+  
-         |  
-         v  
-+--------+---------+  
-| Game Controller  |  
-| Turn Flow & Rules|  
-+--------+---------+  
-         |  
-   +-----+-----+  
-   |           |  
-   v           v  
-Chess Engine   Card System  
-(Board Logic)  (Effects)  
-   |           |  
-   +-----+-----+  
-         |  
-         v  
-Artificial Intelligence  
-
----
-
 ## Core Systems
 
 ### Chess Engine
@@ -148,42 +122,6 @@ SuperChess uses a custom client-server model.
 - Game state updates
 
 Unity’s deprecated UNet system was intentionally avoided.
-
----
-
-## Project Structure
-
-Assets/
-├── Scripts/
-│   ├── Chess/
-│   │   ├── Board.cs
-│   │   ├── Piece.cs
-│   │   ├── MoveValidator.cs
-│   │   └── SpecialMoves/
-│   ├── Cards/
-│   │   ├── CardData.cs
-│   │   ├── CardEffects/
-│   │   ├── DeckManager.cs
-│   │   └── HandManager.cs
-│   ├── AI/
-│   │   ├── Minimax.cs
-│   │   ├── Evaluation.cs
-│   │   └── DifficultyConfig.cs
-│   ├── Networking/
-│   │   ├── Client.cs
-│   │   ├── Server.cs
-│   │   └── NetworkMessages.cs
-│   ├── UI/
-│   │   ├── Menus/
-│   │   ├── HUD/
-│   │   └── DeckBuilderUI.cs
-│   └── Core/
-│       ├── GameManager.cs
-│       └── TurnController.cs
-├── Scenes/
-├── Prefabs/
-├── Audio/
-└── Resources/
 
 ---
 
