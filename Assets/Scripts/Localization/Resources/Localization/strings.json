@@ -1,0 +1,199 @@
+{
+  "entries": [
+    {
+      "key": "ui.settings.language.label",
+      "english": "Language",
+      "spanish": "Idioma"
+    },
+    {
+      "key": "language.display.english",
+      "english": "English",
+      "spanish": "Inglés"
+    },
+    {
+      "key": "language.display.spanish",
+      "english": "Spanish",
+      "spanish": "Español"
+    },
+    {
+      "key": "ui.ai.thinking",
+      "english": "AI thinking...",
+      "spanish": "IA pensando..."
+    },
+    {
+      "key": "ui.ai.searchInterrupted",
+      "english": "AI search interrupted",
+      "spanish": "Búsqueda de la IA interrumpida"
+    },
+    {
+      "key": "ui.settings.music",
+      "english": "Music",
+      "spanish": "Música"
+    },
+    {
+      "key": "ui.settings.sfx",
+      "english": "Sound Effects",
+      "spanish": "Efectos de sonido"
+    },
+    {
+      "key": "ui.deck.confirm",
+      "english": "Confirm",
+      "spanish": "Confirmar"
+    },
+    {
+      "key": "ui.common.back",
+      "english": "Go back",
+      "spanish": "Volver"
+    },
+    {
+      "key": "ui.deck.cost",
+      "english": "Cost: {0}/{1}",
+      "spanish": "Costo: {0}/{1}"
+    },
+    {
+      "key": "ui.menu.localGame",
+      "english": "Local Game",
+      "spanish": "Juego local"
+    },
+    {
+      "key": "ui.menu.onlineGame",
+      "english": "Online Game",
+      "spanish": "Juego en línea"
+    },
+    {
+      "key": "ui.menu.host",
+      "english": "Host",
+      "spanish": "Anfitrión"
+    },
+    {
+      "key": "ui.menu.connect",
+      "english": "Connect",
+      "spanish": "Conectar"
+    },
+    {
+      "key": "ui.menu.vsAI",
+      "english": "Vs AI",
+      "spanish": "Contra IA"
+    },
+    {
+      "key": "ui.menu.deckBuilder",
+      "english": "Deck Builder",
+      "spanish": "Constructor de mazos"
+    },
+    {
+      "key": "ui.menu.settings",
+      "english": "Settings",
+      "spanish": "Ajustes"
+    },
+    {
+      "key": "ui.menu.exit",
+      "english": "Exit",
+      "spanish": "Salir"
+    },
+    {
+      "key": "ui.menu.main",
+      "english": "Main Menu",
+      "spanish": "Menú principal"
+    },
+    {
+      "key": "ui.cards.confirm",
+      "english": "Confirm",
+      "spanish": "Confirmar"
+    },
+    {
+      "key": "ui.cards.cancel",
+      "english": "Cancel",
+      "spanish": "Cancelar"
+    },
+    {
+      "key": "ui.common.confirm",
+      "english": "Confirm",
+      "spanish": "Confirmar"
+    },
+    {
+      "key": "ui.common.cancel",
+      "english": "Cancel",
+      "spanish": "Cancelar"
+    },
+    {
+      "key": "ui.menu.ai.easy",
+      "english": "Easy",
+      "spanish": "Fácil"
+    },
+    {
+      "key": "ui.menu.ai.medium",
+      "english": "Medium",
+      "spanish": "Medio"
+    },
+    {
+      "key": "ui.menu.ai.hard",
+      "english": "Hard",
+      "spanish": "Difícil"
+    },
+    {
+      "key": "ui.game.rematch",
+      "english": "Play again",
+      "spanish": "Revancha"
+    },
+    {
+      "key": "ui.game.exitToMenu",
+      "english": "Exit to Menu",
+      "spanish": "Salir al menú"
+    },
+    {
+      "key": "ui.game.whiteWins",
+      "english": "White pieces win",
+      "spanish": "Ganan las piezas blancas"
+    },
+    {
+      "key": "ui.game.blackWins",
+      "english": "Black pieces win",
+      "spanish": "Ganan las piezas negras"
+    },
+    {
+      "key": "ui.game.draw",
+      "english": "Draw",
+      "spanish": "Empate"
+    },
+    {
+      "key": "ui.online.host",
+      "english": "Create Game",
+      "spanish": "Crear partida"
+    },
+    {
+      "key": "ui.online.join",
+      "english": "Join Game",
+      "spanish": "Conectarse"
+    },
+    {
+      "key": "ui.online.waiting",
+      "english": "Waiting for opponent...",
+      "spanish": "Esperando por oponente..."
+    },
+    {
+      "key": "ui.deck.title",
+      "english": "Deck Builder",
+      "spanish": "Creación de mazos"
+    },
+    {
+      "key": "ui.menu.ai.beginner",
+      "english": "Beginner",
+      "spanish": "Principiante"
+    },
+    {
+      "key": "ui.menu.ai.normal",
+      "english": "Normal",
+      "spanish": "Normal"
+    },
+    {
+      "key": "ui.menu.ai.expert",
+      "english": "Expert",
+      "spanish": "Experto"
+    },
+    {
+      "key": "ui.menu.ai.prompt",
+      "english": "Choose the difficulty",
+      "spanish": "Escoge dificultad"
+    }
+  ]
+}

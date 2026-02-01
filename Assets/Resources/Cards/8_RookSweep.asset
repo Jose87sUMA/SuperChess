@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b61be0338248d191d90b024293e87e, type: 3}
+  m_Name: 8_RookSweep
+  m_EditorClassIdentifier: 
+  id: rookSweep
+  netID: 8
+  displayName: Barrido de Torre
+  description: "Escoge una torre y una direcci\xF3n a partir de esta. La torre captura
+    todas las piezas en esa direcci\xF3n y luego es eliminada"
+  artwork: {fileID: 21300000, guid: b614aed918984e74d8aaf0f2b6436c64, type: 3}
+  cardType: 0
+  cost: 15
+  effectClassName: Cards.Effect.Effects.RookSweepEffect

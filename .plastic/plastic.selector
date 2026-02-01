@@ -1,0 +1,4 @@
+repository "SuperChess 2025-05-05_19-49-39/SuperChess@4305315@cloud"
+  path "/"
+    br "/main"
+    co "/main"

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00b61be0338248d191d90b024293e87e, type: 3}
+  m_Name: 9_DivineIntervention
+  m_EditorClassIdentifier: 
+  id: divineIntervention
+  netID: 9
+  displayName: "Intervenci\xF3n Divina"
+  description: "Escoge un alfil y una diagonal a partir de este. El alfil captura
+    todas las piezas en esa direcci\xF3n y luego es eliminado"
+  artwork: {fileID: 21300000, guid: 0c8b410a8e8b0264b9f1d8539a23c74d, type: 3}
+  cardType: 0
+  cost: 15
+  effectClassName: Cards.Effect.Effects.DivineInterventionEffect
